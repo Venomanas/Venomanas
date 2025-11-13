@@ -1,4 +1,4 @@
-```md <!-- Animated Header Background (replace `your-video.mp4` when ready) -->
+<!-- Animated Header Background (replace `your-video.mp4` when ready) -->
 <div align="center" style="position: relative; overflow: hidden; border-radius: 18px;">
   <video autoplay loop muted playsinline style="width: 100%; opacity: 0.35;">
     <source src="your-video.mp4" type="video/mp4" />
@@ -93,4 +93,4 @@ More incoming — mostly utilities that save time and sanity.
     transform: scale(1.25) rotate(8deg);
   }
 </style>
-```
+

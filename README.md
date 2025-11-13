@@ -1,72 +1,72 @@
-<div align="center">
-  <img src="https://fonts.gstatic.com/s/i/productlogos/chrome/v7/web-48dp/logo_chrome_color_2x_web_48dp.png" width="45" />
-  
-  # Hey, I'm **Anas** 👋  
-  <sub>(also known as Venomanas — the guy who builds tools instead of excuses)</sub>
+```md
+<!-- Animated Header Background (replace `your-video.mp4` when ready) -->
+<div align="center" style="position: relative; overflow: hidden; border-radius: 18px;">
+  <video autoplay loop muted playsinline style="width: 100%; opacity: 0.35;">
+    <source src="your-video.mp4" type="video/mp4" />
+  </video>
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 40px 20px;">
+
+  # 👋 Hey, I'm **Anas**
+  <sub>(aka *Venomanas*) — someone who prefers fixing things over complaining about them</sub>
+  </div>
 </div>
 
 ---
 
 ### 🌱 About Me
-- I like solving **real** problems — broken UI, slow apps, messy APIs, stuff that actually annoys people.  
-- I build projects that **I personally wish existed**.  
-- I prefer clean code, clean UI, and clean vibes.  
-- Self-learning my way up as a web dev from a small corner of Navi Mumbai.
+- I build tools that solve **annoying everyday problems**, not textbook ones.
+- I enjoy interfaces that feel smooth, light, and *just work*.
+- I break things often — then fix them better.
+- Currently navigating the dev world from Navi Mumbai, one practical project at a time.
 
 ---
 
-## ⚡ What I Work With
-I use whatever gets the job done **without drama**:
+## ⚡ Tech I Actually Use
+**Frontend**
+- Next.js
+- React
+- TypeScript
+- TailwindCSS
 
-### **Frontend**
-- Next.js  
-- React  
-- TypeScript  
-- TailwindCSS  
-- A lot of experimenting & breaking things  
+**Backend**
+- Node.js
+- Express
+- MongoDB
+- REST APIs
 
-### **Backend**
-- Node.js  
-- Express  
-- MongoDB  
-- REST APIs  
-- Auth stuff (JWT, Clerk, etc.)
-
-### **Tools**
-- Git (sometimes too many commits)  
-- Vercel  
-- Postman  
-- VS Code (with way too many extensions)
+**Tools**
+- Git
+- Vercel
+- Postman
+- VS Code
 
 ---
 
-## 🚀 What I’m Building / Fixing
-I focus on **useful** things, not “Todo App #26”.
+## 🚀 Projects I’m Actively Improving
+### 🔹 ConvertSign
+A fast, clutter-free tool for converting & resizing documents/images.  
+Built because most online tools are either slow, paywalled, or chaotic.
 
-### 🔹 ConvertSign  
-A fast tool to resize, convert and clean documents/images.  
-Built because all online tools were either slow, paywalled, or ugly.
+### 🔹 Anas-Pexels
+A minimal, clean photo explorer using Next.js + Tailwind.  
+Lightweight, smooth, and distraction-free.
 
-### 🔹 Anas-Pexels  
-A clean, minimal photo explorer made with Next.js + Tailwind.  
-Inspired by Pexels but lighter and distraction-free.
+### 🔹 Python Compiler (Web)
+Simple browser-based Python runner for quick checks.
 
-### 🔹 Python Compiler (web-based)  
-A simple browser compiler that just… works.
-
-More projects coming → probably tools that fix small annoying problems.
+More incoming — mostly utilities that save time and sanity.
 
 ---
 
 ## 🎯 Current Goals
-- Make smoother, Google-like UI interactions  
-- Finish a proper **SaaS tool** (image or file-based)  
-- Get better at debugging weird errors that appear at 2 AM  
-- Build stuff consistently instead of 300 ideas stuck in notes
+- Add smooth, subtle animations to all my projects
+- Ship a full **SaaS Tool** (image or file-based)
+- Improve debugging instincts
+- Stay consistent instead of stacking unfinished ideas
 
 ---
 
-## 📈 GitHub Stats (for the curious)
+## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Venomanas&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venomanas&theme=tokyonight&hide_border=true" height="160" />
@@ -74,14 +74,24 @@ More projects coming → probably tools that fix small annoying problems.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 - 📍 Navi Mumbai  
 - 💼 LinkedIn: https://www.linkedin.com/in/anas-sayyed-01a0b721  
-- 📬 Email: anassayyed.dev@gmail.com  
+- 📬 Email: anassayyed.dev@gmail.com
 
 ---
 
 <div align="center">
-  <sub>“Peace comes from building things, not from swinging swords.” 🧘‍♂️</sub>
+  <sub>“Peace isn't found by doing nothing — it's found by building something.”</sub>
 </div>
 
+<!-- Optional Emoji Hover Animation -->
+<style>
+  img[alt="emoji"] {
+    transition: transform 0.2s ease;
+  }
+  img[alt="emoji"]:hover {
+    transform: scale(1.25) rotate(8deg);
+  }
+</style>
+```

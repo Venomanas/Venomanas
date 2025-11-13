@@ -1,12 +1,19 @@
 <div align="center">
-
+  
+<!-- Header Background with Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=&fontSize=0" />
+<div style="margin-top: -120px;">
+  
+<!-- Avatar with Glow -->
+<img src="https://i.imgur.com/8Q4Y0zp.png" alt="Profile Picture" width="140" style="border-radius: 50%; border: 4px solid #6E44FF; box-shadow: 0 0 30px rgba(110, 68, 255, 0.6);" />
+<br/><br/>
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6E44FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Building+Digital+Solutions" alt="Typing Animation" />
 
 <br/>
 
 <!-- Avatar -->
-<img src="https://i.imgur.com/8Q4Y0zp.png" alt="Profile Picture" width="130" style="border-radius: 50%; border: 3px solid #6E44FF; margin: 20px 0;" />
+
 
 # Anas (अनस)
 

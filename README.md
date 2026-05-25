@@ -1,68 +1,55 @@
-# 👋 Hi, I'm Anas Sayyed
-
-### Crafting clean interfaces. Engineering real-world web experiences.
-
-I’m an Information Technology graduate focused on building fast, intuitive, and scalable web applications.  
-From pixel-perfect UI to backend logic and deployment — I enjoy shaping the full journey of a product.
-
----
-
-## 🚀 What I Do
-
-- 🎯 Build responsive frontend experiences with performance in mind  
-- ⚙️ Develop scalable backend APIs and services  
-- ☁️ Deploy and manage applications across modern cloud platforms  
-
----
-
-## 🧠 Tech Stack
-
-### 🖥️ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=000000&color=1a1a1a)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&labelColor=000000&color=1a1a1a)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=000000&color=1a1a1a)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white&labelColor=000000&color=1a1a1a)
-
----
-
-### ⚛️ Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white&labelColor=000000&color=1a1a1a)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&labelColor=000000&color=1a1a1a)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white&labelColor=000000&color=1a1a1a)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white&labelColor=000000&color=1a1a1a)
-
----
-
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white&labelColor=000000&color=1a1a1a)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white&labelColor=000000&color=1a1a1a)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white&labelColor=000000&color=1a1a1a)
-
----
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white&labelColor=000000&color=1a1a1a)
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white&labelColor=000000&color=1a1a1a)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white&labelColor=000000&color=1a1a1a)
-
----
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white&labelColor=000000&color=1a1a1a)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white&labelColor=000000&color=1a1a1a)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&labelColor=000000&color=1a1a1a)
-
----
-
-## 🔗 Explore My Work
+# Hi there, I'm a Developer! 👋
 
 <div align="center">
+  <!-- The user can replace the placeholder image below with their actual banner URL -->
+  <img src="your_generated_banner_url_here.png" alt="Profile Banner" width="100%" max-width="800px" style="border-radius: 10px;" />
+</div>
 
-⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜
+<br />
 
-### 🧭 Check Out My Portfolio  
-👉 https://port-folio-smoky-kappa.vercel.app/
+<div align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</div>
 
-⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛
+---
 
+### 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</div>
+
+---
+
+### 📊 Git Repo Stats
+
+<div align="center">
+  <!-- Replace 'yourusername' with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 🌱 Quote of the Day
+> **"Peace came from building farms, not arms."** 😊
+
+---
+
+<div align="center">
+  <sub>Profile layout inspired by hand-drawn UI mockups. Made with ❤️</sub>
 </div>

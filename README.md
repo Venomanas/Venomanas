@@ -1,7 +1,5 @@
 
-<img src="/workflows/fra.png" alt="Banner" />
-
-<img align='right' src='' width='170"'>
+<img src="fra.png" alt="Banner" />
 
 <p align='left'>
 i’m Anas sayyed, a full stack developer.

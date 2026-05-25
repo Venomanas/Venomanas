@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./fra.png" alt="Banner" width="100%" />
+  <img src="./github/fra.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Anas Sayyed 👋</h1>
